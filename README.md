@@ -12,3 +12,18 @@
 - **Author Attribution:** Know the source of each quote for added context.
 
 DQuotes empowers you to kickstart your day with positivity and inspiration, nurturing a mindset of personal growth and well-being.
+
+
+## Task 2-To-Do-List App
+
+Welcome to the To-Do-List App, your personal tool for staying organized and focused on your daily goals
+
+**Key Features**
+
+- **Add Task:** Easily add new tasks and set deadlines to keep track of your daily goals.
+- **Delete Task:** Remove completed tasks or those no longer needed to maintain a clutter-free list.
+- **View Task:** Access your tasks at any time, ensuring you never miss an important deadline.
+- **User-Friendly Design:** Enjoy a simple and intuitive interface for a hassle-free experience.
+- **Effortless Task Management:** Stay organized and on top of your daily goals effortlessly.
+
+This app empowers you to stay organized and accomplish your daily goals, one task at a time.
